@@ -1,0 +1,1 @@
+Your party has a pool of **preparation points**, which you gain through various features and can spend on **preparation actions** from your class, ancestry, or background during camp and downtime scenes.
