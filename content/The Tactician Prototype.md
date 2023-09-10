@@ -1,6 +1,8 @@
 Replaces the Fighter
 #### Focus
-As battle rages on, you do not become disoriented and confused, or anxious and unsure; instead, you grow more focused and sharpen your eyes and mind. You have a resource called <font style="color:LightBlue">Focus</font>, which you can spend to execute more complex and powerful maneuvers. You gain <font style="color:LightBlue">1 Focus</font> at the start of each of your turns; you also gain <font style="color:LightBlue">1 Focus</font> when:
+As battle rages on, you do not become disoriented and confused, or anxious and unsure; instead, you grow more focused and sharpen your eyes and mind. 
+
+You have a resource called <font style="color:LightBlue">Focus</font>, which you can spend to execute more complex and powerful maneuvers. You gain <font style="color:LightBlue">1 Focus</font> at the start of each of your turns; you also gain <font style="color:LightBlue">1 Focus</font> when:
 
 - You deal damage to a hostile creature with an attack
 - An ally deals (additional) damage to a hostile creature as a result of one of your Tactician features

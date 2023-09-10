@@ -9,7 +9,7 @@ When you make a skill check with proficiency, you can donate any **Advantage** d
 
 *Example: Richard the Rogue's party is trying to sneak into a cave, past a sleeping Giant. Richard makes a Stealth Check, rolling 2d6 and adding his Dexterity (because Dexterity is the default ability for Stealth). Instead of rolling his **Advantage** die himself, Richard donates it to Barry, since Barry's Dexterity is rather lacking.*
 ### Attack Rolls
-In DnD 2, you don't separately roll to hit and to deal damage. When you make an attack using an ability, you roll 2d6 and add your corresponding ability bonus - this is the damage your attack deals. Attacks will always target some kind of defense; your target will reduce the damage they take by their bonus for that defense.
+In TnT, you don't separately roll to hit and to deal damage. When you make an attack using an ability, you roll 2d6 and add your corresponding ability bonus - this is the damage your attack deals. Attacks will always target some kind of defense; your target will reduce the damage they take by their bonus for that defense.
 
 *Example: Tav the Tactician makes a basic attack with his longsword against a Goblin. He uses Strength for his basic attacks, so he'll roll 2d6 and add his +3 Strength bonus, for a total of 10. His basic longsword attack targets Armor, so the Goblin will reduce the attack's damage by his +4 Armor bonus, taking 6 damage*
 

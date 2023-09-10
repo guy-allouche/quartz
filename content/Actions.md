@@ -4,7 +4,7 @@ Bonus actions are mostly about moving yourself, or moving other people. If a Bon
 
 You can spend your action to gain an additional bonus action on your turn. You can also spend `6` Stamina to gain an additional bonus action on your turn - you can do this only once per turn.
 
-Listed in no particular order are a list of bonus actions that all creatures have access to:
+Listed in no particular order, these are bonus actions that all creatures have access to:
 #### 🏃Move
 Your character starts with a speed based on your ancestry, usually 40 feet. This represents the distance you can move using this Bonus Action. Movement is usually reduced based on the armor you’re wearing.
 
@@ -14,15 +14,15 @@ You **can** move through your allies. You **cannot** move through enemies withou
 
 The total distance you willingly move with this Maneuver or any other effect that allows you to move, including any combination of climbing, swimming, jumping, and flying, can’t exceed your speed.
 ##### 🧗Climb / 🏊Swim 
-As part of the Move bonus action, you can climb or swim. Each square you climb or swim costs 10 feet of movement instead of 5. If the surface is difficult to climb or the liquid is hard to swim in, the DM can call for a Athletics Check. On a failure, you can’t climb or swim but waste no movement in the attempt. Creatures with a climb speed can climb on vertical and horizontal surfaces at full speed without needing to make a Check. Creatures with a swim speed can swim in any liquid at full speed without needing to make a Check.
+As part of the **Move** bonus action, you can climb or swim. Each square you climb or swim costs 10 feet of movement instead of 5. If the surface is difficult to climb or the liquid is hard to swim in, the DM can call for a Athletics Check. On a failure, you can’t climb or swim but waste no movement in the attempt. Creatures with a climb speed can climb on vertical and horizontal surfaces at full speed without needing to make a Check. Creatures with a swim speed can swim in any liquid at full speed without needing to make a Check.
 
 You can attempt to climb a creature whose Size is greater than yours. If the creature is willing, you can climb them without a Check. If the creature is unwilling, they make an Athletics or Acrobatics Check (their choice) opposed by your Athletics Check. On a success, you climb the creature. While you climb or ride a creature, you gain Advantage to Melee Attacks against the creature and the creature can use a Bonus Action to make a Athletics or Acrobatics Check (their choice) opposed by your Athletics Check. On a failure, you fall from the creature into an unoccupied adjacent space of their choice.
 ##### 🦘Jump 
-As part of the Move bonus action, you can make a long jump and jump a number of squares equal to your Strength score without a Check. If you wish to jump further, make a DC 12 Athletics Check as part of this bonus action. On a success, you jump up to an extra 15 feet.
+As part of the **Move** bonus action, you can make a long jump and jump a number of squares equal to your Strength score without a Check. If you wish to jump further, make a DC 12 Athletics Check as part of this bonus action. On a success, you jump up to an extra 15 feet.
 
-Also as a part of the Move bonus action, you can make a high jump and jump up 5 feet. If you want to jump up 10 feet, you must succeed on a DC 12 Athletics Check as part of this Bonus Action.
+Also as a part of the **Move** bonus action, you can make a high jump and jump up 5 feet. If you want to jump up 10 feet, you must succeed on a DC 12 Athletics Check as part of this Bonus Action.
 ##### 🦅Fly
-A creature with a fly speed can move through the air at full speed with the Move bonus action.
+A creature with a fly speed can move through the air at full speed with the **Move** bonus action.
 #### 🤸Disengage
 Same as **Move**, but you only move up to half your speed, and *do not provoke opportunity attacks* for the movement.
 #### 🤝Assist

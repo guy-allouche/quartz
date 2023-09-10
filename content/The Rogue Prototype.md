@@ -1,5 +1,7 @@
 #### Lucky
-A Rogue is defined by their knack to succeed where by all rights they ought to fail. You have a resource called <font style="color:PaleGoldenRod">Luck</font>, which you can spend on your Rogue features. You gain <font style="color:PaleGoldenRod">1 Luck</font> at the start of each of your turns; you also gain <font style="color:PaleGoldenRod">1 Luck</font> when you crit on a roll, or when an attack misses you (its damage is reduced to zero).
+A Rogue is defined by their knack to succeed where by all rights they ought to fail. 
+
+You have a resource called <font style="color:PaleGoldenRod">Luck</font>, which you can spend on your Rogue features. You gain <font style="color:PaleGoldenRod">1 Luck</font> at the start of each of your turns; you also gain <font style="color:PaleGoldenRod">1 Luck</font> when you crit on a roll, or when an attack misses you (its damage is reduced to zero).
 
 There is no limit on how much <font style="color:PaleGoldenRod">Luck</font> you can have, but it resets to 0 when you take a short or long rest.
 #### Resourceful
@@ -26,10 +28,10 @@ Signature Exploit - *A Signature Exploit costs no resources, but only one can be
 *Effect:* If you have **Advantage** on the attack, you deal additional damage equal to your current <font style="color:PaleGoldenRod">Luck</font>.  
 ##### Diving Strike
 Costs <font style="color:PaleGoldenRod">1 Luck</font>
-*Restriction:* When a creature is within 5 feet horizontally and 5 feet lower than you (+5 feet for each size category the creature is larger than you), you can drop down on them and make this special melee weapon attack against it. The horizontal range limit increases by 5 feet for each additional 5 feet of vertical distance between you and the target.  
+*Restriction:* When a creature is within 5 feet horizontally and 5 feet lower than you (+5 feet for each size category the creature is larger than you), you can drop down on them and make this special melee weapon attack against it. The horizontal range limit increases by 5 feet for each additional 5 feet of vertical distance between you and the target.
 *Damage:* `2d6 + Dexterity @ Armor`  
-*Effect:* You don't take fall-damage from the drop, gain **Advantage** on the attack, and land on an adjacent empty square to the creature.
-*Effect on damage:* The creature is knocked prone if it's your size or smaller; if it's larger you can climb the creature instead of ending up adjacent to it.
+*Effect:* Take fall damage as though you fell 30 less feet than you did. You gain **Advantage** on the attack, and land on an adjacent empty square to the creature.
+*Effect on damage:* The creature is knocked prone if it's your size or smaller; if it's larger, you can [[Actions#🧗Climb / 🏊Swim|climb]] the creature instead of landing adjacent to it.
 ##### Coup de Grace
 Costs <font style="color:PaleGoldenRod">2X Luck</font>
 *Restriction:* Target must be **vulnerable**  

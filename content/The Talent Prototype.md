@@ -1,6 +1,6 @@
 A psionic caster class. Replaces the Sorcerer 
 #### Psionic Talents
-You have psionic powers that can manifest themselves through different talents. For this Prototype, you have powers from the Telekinetics and Telepathy categories
+You have psionic powers that can manifest themselves through different talents. For this Prototype, you have powers from the Telekinetics and Telepathy categories.
 ##### Basic Telepathy
 You can telepathically communicate with any creature you can see within 60 feet. When communicating this way, you can use a language you know, but you can also project simple images, feelings, or ideas. More communicating more complex ideas may require an ability check, at the DM's discretion.
 ##### Basic Telekinetics
