@@ -1,4 +1,23 @@
 Clerics have highly varying abilities depending on their domain. This prototype Cleric is a champion of a fiery religion - while the Cleric is normally a very Supportive class, this subclass leans somewhat into a Striker role
+#### Ability Scores and Skills
+For this prototype, your ability scores are:
+
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|
+|3|1|2|0|3|2|
+
+You have 10 Health, and 10 Stamina.
+
+Attacks target one of your Defenses; reduce that Defense's score from the attack's damage. Your Defenses are
+
+| Armor | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|---|
+| 5 (Medium Armor)|5|3|6|2|7|4|
+
+Because you wear Medium Armor, your movement speed is 30 feet.
+
+You have proficiency with the following skills:
+*Knowledge (Religion), Perception, Insight, Persuasion, Intimidation*
 #### Duality
 The Gods vary widely in powers, personality, and interest in mortal affairs. One trait, they all share - fickle. They provide deliverance with one stroke of the wrist, and lay waste with the next. 
 
@@ -8,9 +27,9 @@ Few prayers earn the attention of the divine, yet your faith ensures you never f
 
 A miracle of divine intervention manifests, based on the relative balance of <font style="color:PaleGoldenRod">Virtue</font> and <font style="color:Tomato">Wrath</font> you are holding.
 
-If your <font style="color:PaleGoldenRod">Virtue</font> exceeds your <font style="color:Tomato">Wrath</font> by 2 or more, choose any number of creatures within 120 feet. Roll <font style="color:PaleGoldenRod">1d6 per Virtue</font> you have, and distribute this as healing among the creatures. Excess healing is converted to Stamina. This spends all your <font style="color:PaleGoldenRod">Virtue</font>.
+* **Deliverance:** If your <font style="color:PaleGoldenRod">Virtue</font> exceeds your <font style="color:Tomato">Wrath</font> by 2 or more, choose any number of creatures within 120 feet. Wounds close and bones mend as they are restored to health by divine favor. Roll <font style="color:PaleGoldenRod">1d4 per Virtue</font> you have, and distribute this as healing among the creatures. Excess healing is converted to Stamina. This spends all your <font style="color:PaleGoldenRod">Virtue</font>.
 
-If your <font style="color:Tomato">Wrath</font> exceeds your <font style="color:PaleGoldenRod">Virtue</font> by 2 or more, choose a single creature within 90 feet. Divine fury smites them from the skies! They take <font style="color:Tomato">1d6 damage per Wrath</font> you have. This spends all your <font style="color:Tomato">Wrath</font>.
+* **Lay Waste:** If your <font style="color:Tomato">Wrath</font> exceeds your <font style="color:PaleGoldenRod">Virtue</font> by 2 or more, choose a single creature within 90 feet. Divine fury smites them from the skies! They take <font style="color:Tomato">1d6 damage per Wrath</font> you have. This spends all your <font style="color:Tomato">Wrath</font>.
 
 If your <font style="color:PaleGoldenRod">Virtue</font> and <font style="color:Tomato">Wrath</font> are within 1 of each other, choose *one* or *both* of the effects listed above.
 

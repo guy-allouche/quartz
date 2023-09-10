@@ -58,4 +58,6 @@ See Attacking for more information on this action.
 #### 🛡️Defend
 When you take the Defend Action, you gain a +3 bonus to all your Defenses until the start of your next turn.
 #### 🩹Second Wind
-You regain 1d10 + your level Stamina and can make a saving throw to end an effect. You can use this action at most once per combat.
+You regain 1d10 + your level Stamina and can make a saving throw to end an effect. If you are **vulnerable** (your Stamina is 0), you regain *twice* that amount. 
+
+You can use this action only once, and must complete a short rest to use it again.

@@ -1,3 +1,22 @@
+#### Ability Scores and Skills
+For this prototype, your ability scores are:
+
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|
+|1|3|1|2|3|2|
+
+You have 9 Health, and 9 Stamina.
+
+Attacks target one of your Defenses; reduce that Defense's score from the attack's damage. Your Defenses are
+
+| Armor | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|---|
+| 5 (Light Armor)|3|7|3|4|7|4|
+
+Because you wear Light Armor, your movement speed is 35 feet.
+
+You have proficiency with the following skills:
+*Stealth, Acrobatics, Sleight-of-Hand, Perception, Deception*
 #### Lucky
 A Rogue is defined by their knack to succeed where by all rights they ought to fail. 
 

@@ -1,4 +1,23 @@
-Replaces the Fighter
+The Tactician replaces the Fighter
+#### Ability Scores and Skills
+For this prototype, your ability scores are:
+
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|
+|3|1|2|3|0|2|
+
+You have 13 Health, and 13 Stamina.
+
+Attacks target one of your Defenses; reduce that Defense's score from the attack's damage. Your Defenses are
+
+| Armor | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+|---|---|---|---|---|---|---|
+| 7 (Heavy Armor)|7|3|4|7|2|4|
+
+Because you wear Heavy Armor, your movement speed is 25 feet, and you have disadvantage on *Stealth* checks.
+
+You have proficiency with the following skills:
+*Initiative, Athletics, Investigation, Knowledge (Monsters), Survival*
 #### Focus
 As battle rages on, you do not become disoriented and confused, or anxious and unsure; instead, you grow more focused and sharpen your eyes and mind. 
 
@@ -14,7 +33,7 @@ There is no limit on how much <font style="color:LightBlue">Focus</font> you can
 When a foe misses you with an attack (you reduce its damage to zero), you may **counter** (no reaction needed) dealing weapon damage equal to your Intelligence (no defense).
 #### Strategize
 It pays to be prepared. If you've had at least 1 minute to survey the area a combat takes place in, you start identifying advantageous positions and putting together strategies to improve your odds of success. 
-When you fulfill this requirement and combat begins, you can identify a relevant feature of the terrain; if you do, you and any allies that can hear you have advantage on their first roll this combat. 
+When you fulfill this requirement and combat begins, you can identify a tactically relevant feature of the terrain; if you do, you and any allies that can hear you have advantage on their first roll this combat. 
 #### Parry
 You are a master at warding off the deadliest of blows. When you or an ally within 5 feet are attacked, you **spend your reaction** to grant the target +3 armor for this attack; if you use this ability on an ally, gain <font style="color:LightBlue">1 Focus</font>.
 #### Battle Master 
@@ -32,6 +51,6 @@ Costs <font style="color:LightBlue">4 Focus</font>
 Damage: `2d6 + Intelligence @ Armor`  
 *Effect:* An ally within 5 feet can make a [[Basic Attack]] against the target.
 ##### Forward!
-Costs <font style="color:LightBlue">8 Focus per ally</font>  
+Costs <font style="color:LightBlue">8 Focus</font>  
 Damage: `2d6 + Strength @ Armor`  
 *Effect:* Each ally you target within 30 feet can either move 15 feet or [[Knockback]] an adjacent enemy 15 feet.
